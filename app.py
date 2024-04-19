@@ -1,9 +1,6 @@
 """
 file name: app.py
-Description: Building a Code Bug Fixer App with ChatGPT API
-__copyright__ = "Copyright 2023, MartinYTech"
-__author__=  Martin Yanev
-__modified__= 09/04/2023
+
 """
 
 from flask import Flask, request, render_template
